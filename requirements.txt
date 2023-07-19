@@ -1,3 +1,2 @@
 pycryptodome
-tqdm 
 colorama
