@@ -1,3 +1,3 @@
-pycryptodome (v3.11.0)
-tqdm (v4.62.0)
-colorama (v0.4.4)
+pycryptodome
+tqdm 
+colorama
